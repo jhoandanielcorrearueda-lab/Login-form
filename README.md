@@ -52,7 +52,7 @@ Sistema completo de e-commerce y gestión para tienda de telas y moda juvenil co
 
 4. **Abrir en el navegador**
    - El proyecto se abrirá automáticamente
-   - URL: http://localhost:5173
+   - URL: http://localhost:****
 
 ## 👥 Sistema de Usuarios y Roles
 
@@ -61,7 +61,7 @@ Sistema completo de e-commerce y gestión para tienda de telas y moda juvenil co
 **Administrador Único:**
 - Solo el correo `admin@yesmau.com` tiene privilegios de administrador automáticamente
 - **Email**: admin@yesmau.com
-- **Contraseña**: 123456
+- **Contraseña**: ****
 
 **Usuarios Nuevos:**
 - Todos los usuarios que se registren acceden automáticamente como **Cliente**
@@ -209,7 +209,7 @@ pnpm preview
 ## 📧 Contacto
 
 Para dudas o sugerencias sobre el proyecto:
-- Email: equipo@yesmaumoda.com
+- Email: jhoandanielcorrearueda@gmail.com
 
 ## 📄 Licencia
 
